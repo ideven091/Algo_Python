@@ -1,0 +1,12 @@
+__pycache__
+bookmark.txt
+address.txt
+accounts.txt
+chain_data/
+chapter_09/wallet/images/*png
+chapter_09/wallet/token.json
+chapter_09/wallet/tokens.json
+*mp4
+db.sqlite3
+chains
+chapter_12/decentralized_videos/static/*
