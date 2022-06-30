@@ -1,2 +1,2 @@
 # Algo_Python
-# Sample Blockchain and Algorithms
+# Sample Blockchain Algorithms
